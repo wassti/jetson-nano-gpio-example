@@ -34,3 +34,4 @@ Reference
 * https://github.com/leahneukirchen/linux-jetson-tk1/blob/master/drivers/gpio/gpio-tegra.c
 * https://github.com/brgl/libgpiod/tree/master/tools
 * https://elinux.org/RPi_GPIO_Code_Samples
+* https://code.woboq.org/qt5/include/linux/input-event-codes.h.html
